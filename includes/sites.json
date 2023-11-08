@@ -4,7 +4,7 @@
 "Reddit":{"url":"https:\/\/reddit.com\/r\/gbtech-org","text":"Official Subreddit","icon":"images/reddit.png"},
 "Twitter":{"url":"https:\/\/twitter.com\/igbtech-org","text":"Follow GB Tech on Twitter","icon":"images/twitter.png"},
 "WordPress":{"url":"https:\/\/gbtech-org.wordpress.com","text":"Official WordPress Site","icon":"images/wordpress.png"},
-"YouTube":{"url":"https:\/\/youtube.com\/@gb_tech","text":"GB Tech on YouTube","icon":"images/youtube.png"},
+"YouTube":{"url":"https:\/\/youtube.com\/\/@gb_tech","text":"GB Tech on YouTube","icon":"images/youtube.png"},
 "Amazon":{"url":"https:\/\/igbtech-org.wordpress.com\/tools\/","text":"GB Tech Tools, Gadgets and Peripherals","icon":"images/amazon.png"},
 "RSS Feed":{"url":"https:\/\/igbtech-org.wordpress.com\/author\/gbtech-org\/feed\/","text":"GB Tech RSS Feed","icon":"images/rss.png"}
 }
